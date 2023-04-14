@@ -42,4 +42,4 @@ The global.R file contains the global variables and packages that are used throu
 
 Overall, the Hex Game is a fun and challenging memory game built using Shiny and R. It consists of a user interface file (ui.R), a server module file (server.R), and a global variables and packages file (global.R). The game is organized into several sections, including the welcome screen, the timer module, and the hexagonal tile module. The player must find matching pairs of hexagonal tiles that are randomly arranged on the screen. The game ends with a congratulatory modal dialog that displays the player's elapsed time and allows them to play again or share their score on Twitter.
 
-![](imgs/memory-hex.png)
+![](imgs/memory-hex-game.png)
